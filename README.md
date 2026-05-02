@@ -1,4 +1,4 @@
-# Godwin Oko - Portfolio
+# Jennifer's - Portfolio
 This repository serves as a central portfolio linking to my cybersecurity labs and projects. These labs simulate real-world enterprise environments focusing on Active Directory security, attack simulation, and detection engineering using SIEM tools.
 
 ---
